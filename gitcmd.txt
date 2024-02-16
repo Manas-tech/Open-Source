@@ -1,0 +1,15 @@
+git bash commands 
+cd     - to enter a dir
+cd\    - to go back to dir
+touch   - TO CREATE A FILE
+git init - to initialise git repo
+git status - to check to track FILES
+rm -rf (filename) - to delete a file
+git add (filename) - to stage changes
+git commit -m "cmd FIE ADDED"   - TO COMMIt
+vi (filename) - to edit file ---- :wq to exit and save  , exit without saving changes- :q! 
+cat (filename) - to view file
+git restore -- staged (filename)     to go bavk to staged changes
+git log 
+git stash and git stash pop  and git stash clear
+git remote add origin https://github.com/Manas-tech/Open-Source 
