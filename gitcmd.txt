@@ -13,3 +13,4 @@ git restore -- staged (filename)     to go bavk to staged changes
 git log 
 git stash and git stash pop  and git stash clear
 git remote add origin https://github.com/Manas-tech/Open-Source 
+git remote -v
